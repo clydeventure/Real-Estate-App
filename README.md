@@ -4,8 +4,10 @@
   </a>
 
   <h3 align="center">BT Real Estate</h3>
+  
+  <a align="center" href="https://bt-real-estate-static.netlify.app/">View the static BTRE site.</a>
 
- ![**View the static BTRE site.**](laughing-carson-b1e7ca.netlify.app) **The code on this Github is for the dynamic version.**
+ **The code on this Github is for the dynamic version.**
 
 
 
