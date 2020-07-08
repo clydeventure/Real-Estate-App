@@ -1,12 +1,14 @@
 <br />
 <p align="center">
     <img src="https://github.com/clydeventure/Real-Estate-App/blob/master/btre.png" width="100%" >
-  </a>
+</p>
 
-  <h3 align="center">BT Real Estate</h3>
+<h3 align="center">BT Real Estate</h3>
+
+<p align="center">
+   <a href="https://bt-real-estate-static.netlify.app/">View the static BTRE site.</a>
+</p>
   
-  <a align="center" href="https://bt-real-estate-static.netlify.app/">View the static BTRE site.</a>
-
  **The code on this Github is for the dynamic version.**
 
 
