@@ -8,7 +8,7 @@
 <p align="center">
    <a href="https://bt-real-estate-static.netlify.app/">View the static BTRE site.</a>
    <br/>
-   <strong> The code on this Github is for the dynamic version. </strong>
+   <strong> *The code on this Github is for the dynamic version. </strong>
 </p>
   
 
